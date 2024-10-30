@@ -46,4 +46,3 @@ Proven team player with strong organizational skills, committed to achieving com
 
 - **Java Foundation Associate Certificate**
   *04/2023, Oracle, Ireland*
-
