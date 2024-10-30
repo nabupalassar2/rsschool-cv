@@ -4,13 +4,13 @@
 **Phone:** 083-123-4567
 **Email:** KA_test@gmail.com
 
----
+----
 
 ## Professional Summary
 Results-driven engineer with expertise in analytical problem-solving, detail-oriented, adept at optimizing workflows for high-quality output.
 Proven team player committed to achieving company production goals.
 
----
+----
 
 ## Skills & Personal Development
 - Experienced in data entry and MS Office applications, facilitating efficient documentation and record-keeping.
@@ -18,9 +18,9 @@ Proven team player committed to achieving company production goals.
 - Effective communicator and team player, ready to collaborate for achieving company goals.
 - Native in Ukrainian, Intermediate in English, and Fluent in Russian.
 
----
+----
 
-## Work History
+## Work Experience
 
 **Programmer - Analyst**
 *Eldorado Store – Kyiv, Ukraine*
