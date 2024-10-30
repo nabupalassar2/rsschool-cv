@@ -1,7 +1,7 @@
 # ANDRII KALUHIN
 
 **Roadside House, Gortnaskeagh, Letterkenny, Ireland**
-**Phone:** 08312303456
+**Phone:** 083-123-4567
 **Email:** KA_test@gmail.com
 
 ---
@@ -14,7 +14,7 @@ Proven team player committed to achieving company production goals.
 
 ## Skills & Personal Development
 - Experienced in data entry and MS Office applications, facilitating efficient documentation and record-keeping.
-- Strong analytical thinking, enabling quick problem-solving and process optimization on the production floor.
+- Strong analytical thinking, enabling quick problem-solving and process optimization.
 - Effective communicator and team player, ready to collaborate for achieving company goals.
 - Native in Ukrainian, Intermediate in English, and Fluent in Russian.
 
