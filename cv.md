@@ -7,9 +7,8 @@
 ---
 
 ## Professional Summary
-Results-driven engineer with expertise in analytical problem-solving.
-Detail-oriented and safety-focused, adept at optimizing workflows for high-quality output.
-Proven team player with strong organizational skills, committed to achieving company production goals.
+Results-driven engineer with expertise in analytical problem-solving, detail-oriented, adept at optimizing workflows for high-quality output.
+Proven team player committed to achieving company production goals.
 
 ---
 
